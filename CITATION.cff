@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use Green-Hydrogen-Generation, please cite it as below."
+authors:
+  - family-names: "Chatterjee"
+    given-names: "Dhrub"
+title: "Green Hydrogen Generation: Dynamic Multiphysics and Electrochemical PEM Electrolyzer Simulator"
+version: 1.0.0
+date-released: 2026-10-20
+url: "https://github.com/dhrubchatterjee16-lang/green-hydrogen-generation"
+keywords:
+  - green-hydrogen
+  - pem-electrolysis
+  - multiphysics
+  - electrochemistry
